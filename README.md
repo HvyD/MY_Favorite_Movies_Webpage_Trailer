@@ -1,2 +1,2 @@
 # MY_Favorite_Movies-webpage-trailer-school-project
-This was made in a Udacity class. The python is my coding but the HTML was provided by the school.
+This was made in a Udacity Python class. The python coding is mine. Click on Fresh_tomatoes.html to run
